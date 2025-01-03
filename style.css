@@ -135,7 +135,7 @@ font-size: 20px;
     height: 100vh;
     width: 100%;
     position: relative;
-    top: 100px;
+    top: 50px;
     background-color: #145fe1;
 }
 
@@ -314,7 +314,7 @@ font-size: 16px;
 
             }
             .backimg::before{
-                top: 10%;
+                top: 8%;
             }
     }
     @media(min-width:400px) and (max-width:599px){
@@ -610,6 +610,6 @@ float: none;
             width: 100%;
             position: relative;
             top: 200px;
-                      background-color:rgb(158, 212, 10);
+                  
         }
     }
