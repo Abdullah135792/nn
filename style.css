@@ -255,7 +255,7 @@ font-size: 20px;
     @media(min-width:600px) and (max-width:999px){
         nav{
             height: 8%;
-             background-color: aqua;
+       
         }
         nav img{
             width: 80px;
@@ -314,7 +314,7 @@ font-size: 16px;
 
             }
             .backimg::before{
-                top: 8%;
+                top: 10%;
             }
     }
     @media(min-width:400px) and (max-width:599px){
